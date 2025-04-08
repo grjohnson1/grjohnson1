@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grjohnson1,
+- 👋 Hi, I’m Gregg Johnson,
 - 👀 I’m interested in mentoring others in Software Engineering with my over 24 years experience.
 - 🌱 I’m currently expanding my machine learning and AI skills.
 - 💞️ I’m looking for my next career as a Software Engineering Manager. 
